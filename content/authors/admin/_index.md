@@ -82,7 +82,8 @@ work:
     date_start: 01-10-2022
     date_end: 01-10-2023
     summary: |2-
-      PNRR project: "Giustizia Agile" Digitalization of Courts' data
+      PNRR project: "Giustizia Agile" Digitalization of Court's law cases. 
+
       Participated in building an intelligent database and searc engine for legal texts (civil law court cases)
       Tasks included:
       - Design and supervision of semi-automatic data annotation pipeline
@@ -127,11 +128,11 @@ skills:
       - name: Reading
         description: ''
         percent: 60
-        icon: ''
+        icon: book
       - name: Guitar
         description: ''
         percent: 100
-        icon: ''
+        icon: guitar
       # - name: Photography
       #   description: ''
       #   percent: 80
