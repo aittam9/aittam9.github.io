@@ -64,14 +64,14 @@ education:
     date_start: ''
     date_end: ''
     summary: |
-      Mark: '' cum laude
+      Mark: 110/110 cum laude
 
   - area: BAs Humanities, Latin Language and Literature
     institution: University of Rome Tor Vergata
     date_start: ''
     date_end: ''
     summary: |
-      Mark: '' cum laude
+      Mark: 110/110 cum laude
       
       
 work:
