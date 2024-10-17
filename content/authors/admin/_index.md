@@ -55,7 +55,7 @@ education:
   - area: PhD Computational Linguistics
     institution: University of Pisa
     date_start: ''
-    date_end: on-going
+    date_end: ''
     summary: |
       Working on Computational Linguistics and LLMs interpretability
     
