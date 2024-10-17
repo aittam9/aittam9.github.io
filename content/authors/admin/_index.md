@@ -128,11 +128,11 @@ skills:
       - name: Reading
         description: ''
         percent: 60
-        icon: book
+        icon: book.svg
       - name: Guitar
         description: ''
         percent: 100
-        icon: guitar
+        icon: guitar.svg
       # - name: Photography
       #   description: ''
       #   percent: 80
