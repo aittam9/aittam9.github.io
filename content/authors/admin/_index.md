@@ -54,22 +54,22 @@ interests:
 education:
   - area: PhD Computational Linguistics
     institution: University of Pisa
-    date_start: 01-11-2023
+    date_start: ''
     date_end: ''
     summary: |
       Working on Computational Linguistics and LLMs interpretability
     
   - area: MAs Theoretical and Applied Linguistics
     institution: University of Pisa
-    date_start: 01-12-2019
-    date_end: 20-07-2022
+    # date_start: 01-12-2019
+    # date_end: 20-07-2022
     summary: |
       Mark: 110/110 cum laude
 
   - area: BAs Humanities, Latin Language and Literature
     institution: University of Rome Tor Vergata
-    date_start: 01-12-2015
-    date_end: 06-12-2018
+    # date_start: 01-12-2015
+    # date_end: 06-12-2018
     summary: |
       Mark: 110/110 cum laude
       
@@ -79,8 +79,8 @@ work:
     company_name: University of Pisa
     company_url: ''
     company_logo: ''
-    date_start: 01-10-2022
-    date_end: 01-10-2023
+    # date_start: 01-10-2022
+    # date_end: 01-10-2023
     summary: |2-
       PNRR project: "Giustizia Agile" Digitalization of Court's law cases. 
 
