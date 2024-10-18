@@ -78,8 +78,8 @@ work:
     company_name: University of Pisa
     company_url: ''
     company_logo: ''
-    date_start: '01-10-2022'
-    date_end: '01-10-2023'
+    date_start: ''
+    date_end: ''
     summary: |2-
       PNRR project: "Giustizia Agile" Digitalization of Court's law cases. 
 
