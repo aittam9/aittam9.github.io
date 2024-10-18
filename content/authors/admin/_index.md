@@ -72,15 +72,14 @@ education:
     date_end: ''
     summary: |
       Mark: 110/110 cum laude
-      
-      
+       
 work:
   - position: Pre-Doctoral Research Fellow
     company_name: University of Pisa
     company_url: ''
     company_logo: ''
-    # date_start: 01-10-2022
-    # date_end: 01-10-2023
+    date_start: '01-10-2022'
+    date_end: '01-10-2023'
     summary: |2-
       PNRR project: "Giustizia Agile" Digitalization of Court's law cases. 
 
@@ -92,17 +91,7 @@ work:
       - NLP tools implementation (spacy)
       - Transformers Fine-Tuning (NER, Document classification)
 
-  # - position: Backend Software Engineer
-  #   company_name: X
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Responsibilities include:
-  #     - Migrated infrastructure to a new data center
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -113,14 +102,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      # - name: Data Science
-      #   description: ''
-      #   percent: 100
-      #   icon: chart-bar
-      # - name: SQL
-      #   description: ''
-      #   percent: 40
-      #   icon: circle-stack
+     
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -133,10 +115,7 @@ skills:
         description: ''
         percent: 100
         icon: guitar.svg
-      # - name: Photography
-      #   description: ''
-      #   percent: 80
-      #   icon: camera
+      
 
 languages:
   - name: Italian
@@ -179,7 +158,7 @@ languages:
 #     awarder: datacamp
 #     icon: datacamp
 #     summary: |
-#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 ---
 
 ## About Me
