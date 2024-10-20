@@ -165,12 +165,14 @@ languages:
 #   - date: ""
 #   - 
 
-# courses:  
-#   - title: Neural Networks and Deep Learning
-#     url: https://coursera.org/share/9ff30e7634da0ba0136abee02a590f0b
-#     date: '2023-09-17'
-#     awarder: Coursera
-#     icon: coursera
+awards:  
+  - title: Generative AI with Large Language Models
+    url: https://coursera.org/share/9ff30e7634da0ba0136abee02a590f0b
+    date: '2023-09-17'
+    awarder: Coursera
+    icon: coursera
+
+    
 
 ---
 
