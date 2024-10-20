@@ -34,18 +34,18 @@ sections:
   #   design:
   #     date_format: 'January 2006' 
 
-  - block: resume-courses
-    content:
-      title: MOOC & other courses
-      username: admin
-    design:
-      date_format: 'January 2006' 
+  # - block: resume-courses
+  #   content:
+  #     title: MOOC & other courses
+  #     username: admin
+  #   design:
+  #     date_format: 'January 2006' 
 
   
-  # - block: resume-awards
-  #   content:
-  #     title: Awards
-  #     username: admin
+  - block: resume-awards
+    content:
+      title: Courses
+      username: admin
   
   - block: resume-languages
     content:
