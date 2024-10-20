@@ -159,6 +159,13 @@ languages:
 #     icon: datacamp
 #     summary: |
 
+summerschools:
+  - title: Advanced Language Processing Winter school
+  - url:
+  - date: ""
+  - 
+
+courses:  
   - title: Neural Networks and Deep Learning
     url: https://coursera.org/share/9ff30e7634da0ba0136abee02a590f0b
     date: '2023-09-17'
