@@ -165,10 +165,10 @@ languages:
 #   - date: ""
 #   - 
 awards:
- - title: ESSLLI 2024
-   date: "2024-11-08
+  - title: ESSLLI 2024
+    date: "2024-11-08
 
- -  title: Advanced Language Processing School
+  - title: Advanced Language Processing School
     date: "2022-01-01"
 
 awards:  
