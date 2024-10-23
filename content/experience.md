@@ -26,21 +26,11 @@ sections:
   #   design:
   #     show_skill_percentage: false
   
-  #    summer schools
-  # - block: resume-summerschools
-  #   content:
-  #     title: Summer/Winter schools
-  #     username: admin
-  #   design:
-  #     date_format: 'January 2006' 
 
-  # - block: resume-courses
-  #   content:
-  #     title: MOOC & other courses
-  #     username: admin
-  #   design:
-  #     date_format: 'January 2006' 
-
+  - block: resume-awards
+    content:
+      title: Summer/Winter Schools
+      username: admin
   
   - block: resume-awards
     content:

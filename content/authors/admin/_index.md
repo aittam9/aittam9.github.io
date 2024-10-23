@@ -164,6 +164,12 @@ languages:
 #   - url:
 #   - date: ""
 #   - 
+awards:
+ - title: ESSLLI 2024
+   date: "2024-11-08
+
+ -  title: Advanced Language Processing School
+    date: "2022-01-01"
 
 awards:  
   - title: Generative AI with Large Language Models
@@ -171,6 +177,12 @@ awards:
     date: '2023-09-17'
     awarder: Coursera
     icon: coursera
+
+  # - title: CS50 Harvard Introduction to Computer Science
+  #   url: https://coursera.org/share/9ff30e7634da0ba0136abee02a590f0b
+  #   date: '2023-09-17'
+  #   awarder: Coursera
+  #   icon: coursera
 
     
 
