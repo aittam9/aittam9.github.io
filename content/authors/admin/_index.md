@@ -159,11 +159,7 @@ languages:
 #     icon: datacamp
 #     summary: |
 
-# summerschools:
-#   - title: Advanced Language Processing Winter school
-#   - url:
-#   - date: ""
-#   - 
+
 # awards:
 #   - title: ESSLLI 2024
 #     date: "2024-11-08
@@ -180,9 +176,9 @@ awards:
 
   # - title: CS50 Harvard Introduction to Computer Science
   #   url: https://coursera.org/share/9ff30e7634da0ba0136abee02a590f0b
-  #   date: '2023-09-17'
-  #   awarder: Coursera
-  #   icon: coursera
+  #   date: '2024-09-17'
+  #   awarder: HarvardX
+  #   icon: ""
 
     
 
