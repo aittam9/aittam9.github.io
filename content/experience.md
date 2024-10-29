@@ -27,10 +27,10 @@ sections:
   #     show_skill_percentage: false
   
 
-  - block: resume-awards
+  <!-- - block: resume-awards
     content:
       title: Summer/Winter Schools
-      username: admin
+      username: admin -->
   
   - block: resume-awards
     content:
