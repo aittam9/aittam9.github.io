@@ -174,11 +174,11 @@ awards:
     awarder: Coursera
     icon: coursera
 
-  # - title: CS50 Harvard Introduction to Computer Science
-  #   url: https://coursera.org/share/9ff30e7634da0ba0136abee02a590f0b
-  #   date: '2024-09-17'
-  #   awarder: HarvardX
-  #   icon: ""
+  - title: CS50 Harvard Introduction to Computer Science
+    url: https://certificates.cs50.io/41c0ba75-8ac3-40fa-9161-fb21a1b8bc7e
+    date: '2024-09-17'
+    awarder: CS50
+    icon: cs50
 
     
 
