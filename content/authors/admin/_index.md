@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student in Computational Linguistics
+role: Computational Linguistics PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Pisa
+  - name: University of Pisa, CoLingLab
     url: 
 
 # Social network links
@@ -186,4 +186,4 @@ awards:
 
 ## About Me
 
-I am a PhD student in Computational Linguistics at the University of Pisa. I work in the Computational Linguistics Laboratory (CoLingLab) under the supervision of Prof. Alessandro Lenci and Lucia Passaro.
+I am a last year PhD student in Computational Linguistics at the University of Pisa. I work in the Computational Linguistics Laboratory (CoLingLab) under the supervision of Prof. Alessandro Lenci and Lucia Passaro.
