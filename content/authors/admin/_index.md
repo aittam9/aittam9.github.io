@@ -49,6 +49,7 @@ interests:
   - Computational Linguistics
   - NLP
   - Interpretability
+  - Semantics
   
 
 education:
