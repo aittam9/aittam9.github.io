@@ -1,5 +1,5 @@
 ---
-title: Leveraging LLMs to Build a Semi-synthetic Dataset for Legal Information Retrieval: A Case Study on the Italian Civil Code and GPT-4o
+title: "Leveraging LLMs to Build a Semi-synthetic Dataset for Legal Information Retrieval: A Case Study on the Italian Civil Code and GPT-4o"
 authors:
 - Mattia Proietti
 - Lucia Passaro
