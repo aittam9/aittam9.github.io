@@ -58,7 +58,7 @@ education:
     date_start: '2023-11-01'
     date_end: ''
     summary: |
-      Working on Computational Linguistics and LLMs interpretability
+      Working on Computational Linguistics and LLMs Evaluation and Interpretability
     
   - area: MAs Theoretical and Applied Linguistics
     institution: University of Pisa
